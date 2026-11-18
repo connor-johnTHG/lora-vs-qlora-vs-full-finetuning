@@ -22,12 +22,4 @@ Download GSM8K and print some stats about it:
 
     python explore_data.py
 
-Add `--benchmarks` to also check the other datasets:
-
-    python explore_data.py --benchmarks
-
 Training and evaluation code is coming next.
-
-## How we used AI
-
-We used AI tools to help write and debug our code. We decided what experiments to run, checked that the code was doing what we wanted, and interpreted the results ourselves.
